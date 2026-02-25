@@ -82,4 +82,3 @@ cd client && npm run dev
 | GET | `/api/subscriptions` | Subscription plans |
 | POST | `/api/users/register` | Register user |
 | POST | `/api/users/login` | Login user |
-Full-Stack Developer specializing in E-commerce Systems, AI Platforms &amp; High-Performance Web Apps | PHP • React • Node.js
