@@ -1,0 +1,12 @@
+{
+  "name": "neuroplay-ai",
+  "version": "1.0.0",
+  "description": "NeuroPlay AI - AI Gaming Service Platform",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "npm install && cd client && npm install",
+    "build:client": "cd client && npm run build"
+  }
+}
