@@ -10,4 +10,4 @@ NeuroPlay AI is a next-generation gaming service platform integrating AI-driven 
 - Scalable backend architecture
 
 ## Tech Stack
-React.js | Node.js | MySQL
+React.js | Node.js | MySQL | PHP |Javascript |Bootstrap
